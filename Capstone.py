@@ -17,7 +17,7 @@ from sklearn.ensemble import RandomForestRegressor
 
 
 #Importing the data
-df1 = pd.read_csv('https://raw.githubusercontent.com/karimahamd98/Capstone/main/Msba_Data_2.csv')
+df1 = pd.read_csv('https://raw.githubusercontent.com/karimahamd98/Capstone/main/Msba_Data.csv')
 df= pd.read_csv('https://raw.githubusercontent.com/karimahamd98/Capstone/main/MSBA%20Data.csv')
 
 
