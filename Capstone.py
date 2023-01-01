@@ -45,7 +45,7 @@ selected = option_menu(None, ["Home","Overview","Performance Prediction"],
 
 #If statment to turn the buttons into functional elements
 if selected == 'Home':
-    st.markdown(f'<h1 style="color:#6d021b;font-size:38px;">{"MSBA Student Perfromance Analysis & Prediction"}</h1>', unsafe_allow_html=True)
+    st.markdown(f'<h1 style="color:#6d021b;font-size:38px;">{"MSBA Student Performance Analysis & Prediction"}</h1>', unsafe_allow_html=True)
 
     #Splitting the page into columns to position elements as desired
     col1,col2,col3 = st.columns([5,1,4])
